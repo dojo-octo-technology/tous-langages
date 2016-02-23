@@ -1,14 +1,9 @@
 # Prochaine session:
-
-
-# Rétro de la session précédente:
-****
-- 
-- 
+Mardi 1° Mars 2016
 
 # Sujet:
-****
-- 
+- **K Java    Gilded Roses (tirer parti de l'IDE IntelliJ)**
+- K Haskell FizzBuzz
 
 méthode de vote:
 points = sujets div 2
