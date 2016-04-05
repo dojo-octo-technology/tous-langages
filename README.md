@@ -19,7 +19,7 @@ Mardi 12 Mars 2016
 - On a essayé Python (et on a laissé tomber l'affaire)
 
 # Sujet:
-- **R Python  Solver des Small Brain Number (avec les problématiques de perfs)**
+- **R Python  Solver des Small Brain Number (ou nombre d'armstrong)**
 - R Haskell Poker Hand
 - R Haskell La 4L de Jacky
 - R Haskell Katapotter
