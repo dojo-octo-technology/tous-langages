@@ -1,29 +1,38 @@
 # Prochaine session:
-Mardi 12 Mars 2016
+Mardi 19 Mars 2016
 
 # Présents:
 - mib
-- jcb
-- vdu
-- pni
-- far
-- jvi
+- das
+- ptr
+- anb
+- twi
+- eld
+- alb
+- cds
 - meh
-- lth
+- far
 - sar
+- maf
+- jcd
+- abn
+- xju
+- jcb
+- saz
+- cth
 
 # Rétro de la session précédente:
-- **Randori Ruby Coding Game: Skynet The Chasm**
-- On n'est pas arrivé au bout
-- On n'arrivait pas à afficher du debug
-- On a essayé Python (et on a laissé tomber l'affaire)
+- **R Python  Solver des Small Brain Number (avec les problématiques de perfs)**
+- On est arrivé au bout
+- C'était un bon sujet pour faire l'algo
+- C'était un bon sujet d'optim (mais on n'a pas eu le temps)
+- Python se prêtait bien au sujet (résolu l'algo en une ligne grâce aux guardes)
 
 # Sujet:
-- **R Python  Solver des Small Brain Number (avec les problématiques de perfs)**
-- R Haskell Poker Hand
-- R Haskell La 4L de Jacky
-- R Haskell Katapotter
-- R Ruby    Problème des 8 Dames
+- **K Ruby    LAGS (Louez Avion Gagnez Sous)**
+- R Haskell Le problème des 8 dames
+- R Ruby    KataPotter!
+- R Ruby    Tous les nombres!
 
 méthode de vote:
 points = sujets div 2
