@@ -1,9 +1,21 @@
 # Prochaine session:
-Mardi 1° Mars 2016
+Mardi 10 Mai 2016
+
+# Présents:
+- mib
+- saz
+- meh
+- cds
+- eld
+
+# Rétro de la session précédente:
+- **R Haskell KataPotter**
+- c'est un langague super adapté, les refacto sont très rapides et clairs
+- on est allé jusqu'aux prix d'une série
 
 # Sujet:
-- **K Java    Gilded Roses (tirer parti de l'IDE IntelliJ)**
-- K Haskell FizzBuzz
+- R Ruby    Game of Life de Conway
+- **R Haskell Game of Life de Conway**
 
 méthode de vote:
 points = sujets div 2
