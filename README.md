@@ -1,9 +1,29 @@
 # Prochaine session:
-Mardi 1° Mars 2016
+Mardi 31 Mai 2016
+
+# Présents:
+- mib
+- das
+- twi
+- ldu
+- cds
+- meh
+
+# Rétro de la session précédente:
+- **Double-loop TDD by CRU (tm)**
+- un peu long par rapport a tempo du dojo
+- manquait un peu de préparation peut-être
+- Kata++ (support de présentation)
+- Kata bizarre (invitation de participation du public)
+- c'était bien réussi
+- sujet très intéressant
+- bon choix pour un kata (sans support de cours et participation du public)
 
 # Sujet:
-- **K Java    Gilded Roses (tirer parti de l'IDE IntelliJ)**
-- K Haskell FizzBuzz
+- **Mob     Haskell Conway's GameOfLife**
+-   Randori Haskell Conway's GameOfLife
+-   Randori Rust    Conway's GameOfLife
+-   Mob     Rust    Conway's GameOfLife
 
 méthode de vote:
 points = sujets div 2
