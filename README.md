@@ -28,6 +28,9 @@ Mardi 7 Juin 2016
 - Mob     Brainfuck! Suite de Fibonacci
 - Mob     Rust       Game of Life
 
+# Le code produit:
+https://github.com/Fabinout/kata-gildedrose/tree/2016-05-31
+
 méthode de vote:
 points = sujets div 2
 
