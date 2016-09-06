@@ -1,14 +1,9 @@
-# Prochaine session:
-
-
-# Rétro de la session précédente:
-****
-- 
-- 
-
 # Sujet:
-****
-- 
+- **kata    ruby      la monade Optionnal (Maybe?)**
+- mob     elm       Game of Life (avec des pinguoins)
+- mob     haskell   la 4L de Jacky
+- randori java      Yannick Noah (score de Tennis)
+- kata    brainfuck Suite de Fibonacci
 
 méthode de vote:
 points = sujets div 2
